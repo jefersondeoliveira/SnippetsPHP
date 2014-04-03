@@ -1,4 +1,4 @@
 SnippetsPHP
 ===========
 
-Trecho de codigos em PHP
+Trechos de codigos em PHP
